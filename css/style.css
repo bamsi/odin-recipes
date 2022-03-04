@@ -1,1 +1,40 @@
+main {
+  margin: auto;
+  width: 70%;
+  font-family: sans-serif;
+}
 
+header h1 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #2e2970;
+  text-align: center;
+}
+
+.nav-tile ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.nav-tile li {
+  float: left;
+  padding: 15px 15px;
+  border: 1px solid #969ea3;
+  margin: 2px 2px;
+}
+
+.nav-tile img {
+  width: 25rem;
+  height: 25rem;
+}
+
+.link-text a {
+  color: black;
+  text-decoration: none;
+}
+
+.link-text a:hover {
+  text-decoration: underline;
+}
