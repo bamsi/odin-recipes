@@ -38,3 +38,22 @@ header h1 {
 .link-text a:hover {
   text-decoration: underline;
 }
+
+.recipe-header img {
+  width: 40rem;
+  height: 40rem;
+  margin-top: 2rem;
+}
+
+.recipe-header h1 {
+  color: #2e2970;
+  text-align: left;
+}
+
+article h2 {
+  font-weight: 500;
+}
+
+article ul {
+  list-style-type: square;
+}
